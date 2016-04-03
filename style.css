@@ -8,9 +8,23 @@ h1 {
 	margin: 100px;
 }
 
+h2 {
+	text-align:center;
+	color: white;
+	margin-bottom: 0;
+}
+
 p {
 	text-align: center;
-	margin: 200px;
 	font-size: 18px;
 	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: purple;
+}
+
+a:hover {
+	color: yellow;
 }
